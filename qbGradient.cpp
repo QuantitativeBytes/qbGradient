@@ -2,7 +2,7 @@
 		qbGradient class implementation.
 		
 		qbGradient is a simple implementation of the gradient descent method for
-		numerical optimization, indended to demonstrate the principles of the
+		numerical optimization, intended to demonstrate the principles of the
 		method for educational purposes.
 		
 		The code utilizes function pointers so that the user can specify an
